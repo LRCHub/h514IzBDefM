@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "glory days",
+  "base_artist": "ロボ子さん",
+  "createdAt": "2026-03-04T05:08:50.091006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Pulp",
+      "has_synced": true,
+      "path": "select/01_Glory_Days_Pulp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/02_Glory_Days_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Betty Who",
+      "has_synced": true,
+      "path": "select/03_Glory_Days_Betty_Who.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GLORY DAYS",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/04_GLORY_DAYS_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Just Jack",
+      "has_synced": true,
+      "path": "select/05_Glory_Days_Just_Jack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Inglorious",
+      "has_synced": true,
+      "path": "select/06_Glory_Days_Inglorious.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Glory Days",
+      "artist": "Nightingale",
+      "has_synced": false,
+      "path": "select/07_The_Glory_Days_Nightingale.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "146 - Bruce Springsteen - Glory Days",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_146_-_Bruce_Springsteen_-_Glory_Days_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "SP",
+      "has_synced": false,
+      "path": "select/09_Glory_Days_SP.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Glory Days - EP Version",
+      "artist": "Roo Panes",
+      "has_synced": true,
+      "path": "select/10_Glory_Days_-_EP_Version_Roo_Panes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Roo Panes",
+      "has_synced": true,
+      "path": "select/11_Glory_Days_Roo_Panes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/12_Glory_Days_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Fellowship",
+      "has_synced": true,
+      "path": "select/13_Glory_Days_Fellowship.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "Fellowship",
+      "has_synced": false,
+      "path": "select/14_Glory_Days_Fellowship.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Glory Days",
+      "artist": "The Federal Empire",
+      "has_synced": true,
+      "path": "select/15_Glory_Days_The_Federal_Empire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "glory days",
+      "artist": "ロボ子さん",
+      "has_synced": false,
+      "path": "select/pl_01_glory_days_ロボ子さん.txt"
+    }
+  ]
+}
